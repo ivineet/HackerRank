@@ -6,6 +6,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/*https://www.hackerrank.com/challenges/flipping-bits/problem
+*/
+
 public class Flippingbits {
 
     public static void main(String[] args) {
