@@ -9,7 +9,6 @@ import java.util.regex.*;
 public class Lonelyinteger {
 
     static int lonelyinteger(int[] a) {
-        
         int result = 0;
         for(int i=0; i<a.length; i++){
             result = result ^ a[i];  
